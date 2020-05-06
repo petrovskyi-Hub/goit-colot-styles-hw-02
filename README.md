@@ -1,2 +1,2 @@
-# goit-colot-styles-hw-02
-Оформление цвета
+# goit-markup-hw-01
+Homework-01
