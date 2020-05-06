@@ -1,0 +1,24 @@
+/* Hero */
+.hero-title {
+  color: var(--primary-white-color);
+}
+
+/* Button */
+.button {
+  color: var(--primary-white-color);
+  background-color: var(--accent-color);
+}
+
+/* Section */
+.section-title {
+  color: var(--title-text-color);
+}
+
+.title {
+  color: var(--title-text-color);
+}
+
+/* Our possibilities */
+.possibilities-title {
+  color: var(--primary-white-color);
+}

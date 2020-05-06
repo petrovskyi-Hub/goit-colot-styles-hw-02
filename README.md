@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-Homework-01
+# goit-colot-styles-hw-02
+
+Homework-02

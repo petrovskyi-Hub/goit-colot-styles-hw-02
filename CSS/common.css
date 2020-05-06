@@ -1,0 +1,74 @@
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+  --primary-white-color: #ffffff;
+  --copy-text-color: rgba(255, 255, 255, 0.4);
+}
+
+body {
+  background-color: var(--primary-white-color);
+  color: var(--primary-text-color);
+}
+
+.list {
+  list-style: none;
+}
+
+/* Logo */
+.logo-accent {
+  color: var(--accent-color);
+}
+
+.logo {
+  color: var(--title-text-color);
+}
+
+.logo:hover,
+.logo:focus {
+  color: var(--accent-color);
+}
+
+/* Site nav */
+.site-nav .link {
+  color: var(--title-text-color);
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: var(--accent-color);
+}
+
+.site-nav .link.current {
+  color: var(--accent-color);
+}
+
+.contacts-nav .link {
+  color: var(--primary-text-color);
+}
+
+.contacts-nav .link:hover,
+.contacts-nav .link:focus {
+  color: var(--accent-color);
+}
+
+/* Footer */
+.address {
+  color: var(--primary-white-color);
+}
+
+.footer .link {
+  color: var(--primary-text-color);
+}
+.footer .link:hover,
+.footer .link:focus {
+  color: var(--accent-color);
+}
+
+.footer-titles {
+  color: var(--primary-white-color);
+}
+
+.copyright {
+  color: var(--copy-text-color);
+}
